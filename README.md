@@ -1,4 +1,4 @@
-### Hi there 👋, This is
+### Hi there 👋. This is
 ```
       _                     , __            
   () | |                   /|/  \           
