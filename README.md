@@ -16,4 +16,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=SleepyBag)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&repo=Statistical-Learning-Methods)](https://github.com/SleepyBag/Statistical-Learning-Methods)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepyBag)
