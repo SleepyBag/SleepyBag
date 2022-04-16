@@ -11,11 +11,11 @@
 
 , a programmer who ❤️ his girlfriend soooooooooo much.
 
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 I’m currently working for Microsoft.
 
 ![](https://github-readme-stats.vercel.app/api?username=SleepyBag)
 
-Here are my repos:
+- 📦Here are my repos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&repo=Statistical-Learning-Methods)](https://github.com/SleepyBag/Statistical-Learning-Methods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&repo=DAML)](https://github.com/SleepyBag/DAML)
