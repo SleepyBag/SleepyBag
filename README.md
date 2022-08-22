@@ -19,6 +19,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&repo=Statistical-Learning-Methods&theme=dracula)](https://github.com/SleepyBag/Statistical-Learning-Methods)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=DAML)](https://github.com/SleepyBag/DAML)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=dragon-win)](https://github.com/SleepyBag/dragon-win)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=Paletteau)](https://github.com/SleepyBag/Paletteau)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=fuzzy-fs)](https://github.com/SleepyBag/fuzzy-fs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=rime-zrm)](https://github.com/SleepyBag/rime-zrm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=leetcode-python-in-one-line)](https://github.com/SleepyBag/leetcode-python-in-one-line)
@@ -32,4 +34,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=polybar-netease-cloud-music)](https://github.com/SleepyBag/polybar-netease-cloud-music)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=polybar-wunderlist)](https://github.com/SleepyBag/polybar-wunderlist)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SleepyBag&theme=dracula&repo=moyu)](https://github.com/SleepyBag/moyu)
+
 
